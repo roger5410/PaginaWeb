@@ -1,3 +1,3 @@
 <?php
-echo "<p>MI PÁGINA WEB</p>";
+echo "<p>MI PAGINA WEB DESDE GitHub</p>";
 ?>
